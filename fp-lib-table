@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "3568 Fuse")(type "KiCad")(uri "${KIPRJMOD}/lib/3568_FUSE/footprints.pretty")(options "")(descr ""))
+  (lib (name "DRV8244SQRYJRQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8244SQRYJRQ1/footprints.pretty")(options "")(descr ""))
+  (lib (name "IHLP6767DZER5R6M11")(type "KiCad")(uri "${KIPRJMOD}/lib/IHLP6767DZER5R6M11/footprints.pretty")(options "")(descr ""))
+  (lib (name "SRP6530A-4R7M")(type "KiCad")(uri "${KIPRJMOD}/lib/SRP6530A-4R7M/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPS56A37RPAR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS56A37RPAR/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPS62933DRLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS62933DRLR/footprints.pretty")(options "")(descr ""))
+  (lib (name "Battery Input")(type "KiCad")(uri "${KIPRJMOD}/lib/Battery Input/footprints.pretty")(options "")(descr ""))
+)

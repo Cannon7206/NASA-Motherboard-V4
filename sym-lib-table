@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "3568 Fuse")(type "KiCad")(uri "${KIPRJMOD}/lib/3568_FUSE/2026-01-29_02-41-26.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8244SQRYJRQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8244SQRYJRQ1/2026-01-29_02-47-49.kicad_sym")(options "")(descr ""))
+  (lib (name "SRP6530A-4R7M")(type "KiCad")(uri "${KIPRJMOD}/lib/SRP6530A-4R7M/2026-01-29_02-46-38.kicad_sym")(options "")(descr ""))
+  (lib (name "IHLP6767DZER5R6M11")(type "KiCad")(uri "${KIPRJMOD}/lib/IHLP6767DZER5R6M11/2026-01-29_02-46-09.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62933DRLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS62933DRLR/2026-01-29_02-44-22.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56A37RPAR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS56A37RPAR/2026-01-29_02-43-02.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery Input")(type "KiCad")(uri "${KIPRJMOD}/lib/Battery Input/Battery Input.kicad_sym")(options "")(descr ""))
+)
