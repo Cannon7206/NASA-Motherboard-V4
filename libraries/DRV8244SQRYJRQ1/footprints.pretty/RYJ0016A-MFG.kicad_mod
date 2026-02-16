@@ -507,7 +507,7 @@
 		(uuid "3eb61dfb-a909-4a90-8c7d-54b06fbe861b")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/DRV8244SQRYJRQ1/RYJ0016A.stp"
+	(model "${KIPRJMOD}/libraries/DRV8244SQRYJRQ1/RYJ0016A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

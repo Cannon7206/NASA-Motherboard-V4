@@ -416,7 +416,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/IHLP6767DZER5R6M11/IHLP6767DZ.step"
+	(model "${KIPRJMOD}/libraries/IHLP6767DZER5R6M11/IHLP6767DZ.step"
 		(offset
 			(xyz -6.5 0 -2.3)
 		)

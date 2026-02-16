@@ -327,7 +327,7 @@
 		(uuid "d3a2ed5c-0c9a-40d3-b07d-9a497c9f0413")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/TPS62933DRLR/DRL0008A.stp"
+	(model "${KIPRJMOD}/libraries/TPS62933DRLR/DRL0008A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

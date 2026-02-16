@@ -316,7 +316,7 @@
 		(uuid "3b72a1d4-0c64-458b-8b74-b0c10ddb028d")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/TPS56A37RPAR/RPA0010A.stp"
+	(model "${KIPRJMOD}/libraries/TPS56A37RPAR/RPA0010A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

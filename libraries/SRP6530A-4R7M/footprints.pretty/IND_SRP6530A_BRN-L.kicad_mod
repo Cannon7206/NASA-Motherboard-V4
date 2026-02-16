@@ -320,7 +320,7 @@
 		(uuid "d1700162-e56e-47b0-ae2e-2247214af74b")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/lib/SRP6530A-4R7M/IND_SRP6530A_BRN.step"
+	(model "${KIPRJMOD}/libraries/SRP6530A-4R7M/IND_SRP6530A_BRN.step"
 		(offset
 			(xyz 0 0 0)
 		)
